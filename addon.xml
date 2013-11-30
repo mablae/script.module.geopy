@@ -7,7 +7,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">geopy Geocoder Lib repack for XBMC</summary>
 		<description lang="en">geopy is a Python client for several popular geocoding web services.</description>
-		<disclaimer>© GeoPy Project and individual contributors under the MIT License.</disclaimer>
+		<disclaimer>GeoPy Project and individual contributors under the MIT License.</disclaimer>
 		<license>MIT</license>
 		<platform>all</platform>
 		<source>https://github.com/mablae/script.module.geopy.git</source>
